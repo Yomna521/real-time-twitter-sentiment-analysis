@@ -1,5 +1,4 @@
-# real-time-twitter-sentiment-analysis
-This pipeline fetches real-time streaming tweets using Tweepy, then performs sentiment analysis using apache kafka and apache spark, and saves the results in parquet files.
+# Real-time twitter sentiment analysis
 
 The system is thoroughly explained on the following blog: https://twittersentimentanalysis605229620.wordpress.com/
 
