@@ -14,10 +14,10 @@ import re
 
 
 #Twitter Credentials 
-access_token = '1438441025601671170-W8f9wR35o1GakmfsV91RK6qlRpiCao'
-access_token_secret = 'gib7YGWqLVFbPcE8r89pxTIQzhkFznf8dWy9781MAapKB'
-consumer_key = 'JPckg2OMgqqXZAPtUKGMKUXFJ'
-consumer_secret = '5UmOrq0ChHTD4IjYPxTIoRv2UDMpPw0GL7O3rG341Ch5UDNJuH'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
+consumer_key = 'consumer_key'
+consumer_secret = 'consumer_secret'
 
 class KafkaConfig():
 	def __init__(self):
